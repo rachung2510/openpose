@@ -136,4 +136,6 @@ html/
 *.mov
 
 ######################### Validation Scripts & Testing #########################
-output*/
+#output*/
+
+bin/opencv_world420d.dll
